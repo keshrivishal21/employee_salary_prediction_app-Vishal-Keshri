@@ -10,7 +10,7 @@ st.set_page_config(page_title="Salary Classifier using ML", page_icon="💼", la
 
 # Title and subtitle
 st.markdown("<h1 style='text-align: center;'>💼 Employee Salary Classification App</h1>", unsafe_allow_html=True)
-st.markdown("<h4 style='text-align: center;'>Predict if an employee earns >50K or ≤50K using ML Algorithms</h4>", unsafe_allow_html=True)
+st.markdown("<h4 style='text-align: center;'>Predict if an employee earns >50K or ≤50K using ML Alogorithms</h4>", unsafe_allow_html=True)
 st.markdown("---")
 
 # Input Form
